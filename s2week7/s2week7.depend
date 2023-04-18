@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1681807359 source:c:\users\emre\desktop\test\s2week7\main.c
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+
